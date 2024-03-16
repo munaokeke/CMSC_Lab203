@@ -1,10 +1,3 @@
-/**
- * Lab 2 summer 2021 Montgomery College 
- * @author Daniel Muna Okeke
- * Professor Ahmed Tarek
- * CMSC 203 CRN: 46519
-* Due Date 29 June 2021
- */
 
 
 import javafx.application.Platform;
