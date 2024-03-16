@@ -7,13 +7,7 @@
  * with the data that the GUI got from a text field or other data structure.
  * @author ralexander
  *
- * Lab 2 summer 2021 Montgomery College 
- * @author Daniel Muna Okeke
- * Professor Ahmed Tarek
- * CMSC 203 CRN: 46519
-* Due Date 29 June 2021
- *
- */
+
 public class DataManager {
     
 	DataManager() {	}
