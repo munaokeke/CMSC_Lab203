@@ -1,11 +1,4 @@
-/**
- * Lab 2 summer 2021 Montgomery College 
- * @author Daniel Muna Okeke
- * Professor Ahmed Tarek
- * CMSC 203 CRN: 46519
-* Due Date 29 June 2021
 
- */
 import java.io.IOException;
 import javafx.application.Application;
 import javafx.scene.Parent;
